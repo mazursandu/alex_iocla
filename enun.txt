@@ -1,0 +1,5 @@
+1conditia:
+gigel organizeaza cu ocazia terminarii sesiunii o petrecere la el acasa. pentru a dezmorti putin atmosfera, el i-a provcat pe oaspetii sai la un joc de scramble cu regulile propuse de acesta pe loc. Participantii primesc cate un cuvant si o cheie reprezentata printr-un caracter al cuvantului. Acestia trebuie sa aplice rot13 pe fiecare caracter in intervalul [0, indice prima aparitie a cheii in cuvant], iar apoi sa inverseze sirul de caractere pentru a obtine forma finala.
+
+1a.
+aflati si afisati indexul cheii data de caracterul stocat in variabila chr. (5puncte)
